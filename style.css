@@ -29,3 +29,10 @@ h2 {
     margin: 20px;
     padding: 40px;
 }
+h2 {
+    border-style: solid;
+    border-width: 3px;
+    border-left-width: 10px;
+    border-right-width: 10px;
+    border-color: red;
+}
